@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/366779196975874049?borderRadius=20px&hideDiscrim=true&idleMessage=Resolving%20bugs%20probably)](https://discord.com/users/538421122920742942)
+[![Discord Presence](https://lanyard.cnrad.dev/api/366779196975874049?borderRadius=20px&hideDiscrim=true&idleMessage=Resolving%20bugs%20probably)](https://discord.com/users/366779196975874049)
 
 <br/>
 
