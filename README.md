@@ -12,7 +12,5 @@
 
 <br/>
 
-<h3 align="left"> <strong>Languages I work with: </strong></h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=socram03&count_private=true&theme=synthwave&border_color=141321&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=socram03&count_private=true&theme=synthwave&border_color=141321&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 >
