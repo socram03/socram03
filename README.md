@@ -2,9 +2,9 @@
 
 <a align="right" href="https://discord.gg/g3ZbCmShD4" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g3ZbCmShD4" height="100" width="133" /></a>
 
--   🧠 A veteran of **Typescript/Javascript/Python**
--   📢 You can talk to me and follow YPN on: https://discord.gg/mextEAsgby
--   🕹 Im a pro at league of legends (I wish)
+-   A veteran of **Typescript/Javascript/Python**
+-   You can talk to me and follow YPN on: https://discord.gg/mextEAsgby
+-   Im a pro at league of legends (I wish)
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<h3 align="left"> <strong>Languages i work with: </strong></h3>
+<h3 align="left"> <strong>Languages I work with: </strong></h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=socram03&count_private=true&theme=synthwave&border_color=141321&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 >
