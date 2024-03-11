@@ -1,6 +1,6 @@
 <h1 align='center'>One more random!</h1>
 
-<a align="right" href="https://discord.gg/g3ZbCmShD4" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g3ZbCmShD4" height="100" width="133" /></a>
+<a align="right" href="https://discord.gg/RmW54ShzMA" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g3ZbCmShD4" height="100" width="133" /></a>
 
 -   A veteran of **Typescript/Javascript/Python**
 -   You can talk to me and follow YPN on: https://discord.gg/mextEAsgby
