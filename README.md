@@ -6,6 +6,8 @@
 -   You can talk to me and follow YPN on: https://discord.gg/mextEAsgby
 -   Im a pro at league of legends (I wish)
 
+![status](https://api.statusbadges.me/badge/status/366779196975874049) ![vscode](https://api.statusbadges.me/badge/vscode/366779196975874049)
+
 <br/>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/366779196975874049?borderRadius=20px&hideDiscrim=true&idleMessage=Resolving%20bugs%20probably)](https://discord.com/users/366779196975874049)
@@ -14,3 +16,4 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=socram03&count_private=true&theme=synthwave&border_color=141321&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 >
+
