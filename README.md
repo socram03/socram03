@@ -5,7 +5,7 @@
 -   A veteran of **Typescript/Javascript/Python**
 -   Try seyfert https://seyfert.dev
 -   Im a pro at league of legends (Master stuck)
-
+![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,seyfert,discord,node,bun,git,python,linux,discordjs)<br/>
 ![status](https://api.statusbadges.me/badge/status/366779196975874049) ![vscode](https://api.statusbadges.me/badge/vscode/366779196975874049)
 
 <br/>
